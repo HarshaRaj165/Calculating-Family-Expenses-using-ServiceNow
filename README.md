@@ -89,10 +89,10 @@ It highlights how ServiceNow’s low-code/no-code tools, combined with scripting
 
 This project not only showcases my technical proficiency but also my ability to:
 
-Understand business requirements.
+*Understand business requirements.
 
-Translate them into functional ServiceNow applications.
+*Translate them into functional ServiceNow applications.
 
-Automate processes to improve efficiency.
+*Automate processes to improve efficiency.
 
-Present information in a user-friendly and analytical format through reports and dashboards.
+*Present information in a user-friendly and analytical format through reports and dashboards.
